@@ -1,0 +1,70 @@
+buttons:
+
+
+  bitmex:
+    description: 'Bitmex'
+    buttons:
+      apidetails:
+        description: 'Change your API details'
+        buttons:
+          apikey:
+            description: 'Change your API key'
+            query: 'Type in your api key'
+          secret:
+            description: 'Change your API Secret key'
+            query: 'Type in your secret key'
+      trading:
+        description: 'Configure trading settings'
+        buttons:
+          amount:
+            description: 'Configure trading amount'
+            query: 'Please choose from the below amounts'
+          mode:
+            description: 'Configure trading mode'
+            query: 'Please choose from the below amounts'
+
+
+  binance:
+    description: 'Binance'
+    buttons:
+      apidetails:
+        description: 'Change your API details'
+        buttons:
+          apikey:
+            description: 'Change your API key'
+            query: 'Type in your api key'
+          secret:
+            description: 'Change your API Secret key'
+            query: 'Type in your secret key'
+      trading:
+        description: 'Configure trading settings'
+        buttons:
+          amount:
+            description: 'Configure trading amount'
+            query: 'Please choose from the below amounts'
+          mode:
+            description: 'Configure trading mode'
+            query: 'Please choose from the below amounts'
+
+
+  trade8:
+    description: 'Trade 8'
+    buttons:
+      apidetails:
+        description: 'Change your API details'
+        buttons:
+          apikey:
+            description: 'Change your API key'
+            query: 'Type in your api key'
+          secret:
+            description: 'Change your API Secret key'
+            query: 'Type in your secret key'
+      trading:
+        description: 'Configure trading settings'
+        buttons:
+          amount:
+            description: 'Configure trading amount'
+            query: 'Please choose from the below amounts'
+          mode:
+            description: 'Configure trading mode'
+            query: 'Please choose from the below amounts'
